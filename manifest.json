@@ -1,0 +1,15 @@
+{
+  "name": "Math Punch",
+  "short_name": "Math Punch",
+  "description": "Quick access to Math Punch",
+  "start_url": "/",  // Or the specific URL of your HTML file
+  "display": "standalone", // This makes it open more like an app
+  "icons": [
+    {
+      "src": "icon.png", // Path to your app icon (create this!)
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+    // Add more icon sizes as needed (e.g., 512x512)
+  ]
+}
